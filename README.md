@@ -47,7 +47,7 @@ A cada 24 horas (definido como 10.000 milissegundos), o sistema incrementa o nú
 - Estimular o uso de tecnologias como o Arduino para soluções sustentáveis.
 
 ## Nomes e rms
-Adriano Lopes rm: 98574
-Diogo Ramos Fernandes rm: 551752
-Filipe Soares rm: 97830
-Gustavo Medeiros rm: 552093
+[Adriano Lopes rm: 98574]
+[Diogo Ramos Fernandes rm: 551752]
+[Filipe Soares rm: 97830]
+[Gustavo Medeiros rm: 552093]
