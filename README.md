@@ -7,7 +7,7 @@ Este projeto consiste em um sistema de controle de validade de produtos aliment�
 
 O sistema utiliza um display LCD para exibir a quantidade de dias de validade restantes para o produto em questão. Os botões de incremento e decremento permitem ajustar a quantidade de dias de validade inicialmente definida. 
 
-A cada 24 horas (definido como 10.000 milissegundos), o sistema incrementa o número de dias decorridos e verifica se a porcentagem da validade atingiu 80%. Caso tenha atingido, o buzzer é acionado para alertar os responsáveis sobre a proximidade da data de validade.
+A cada 24 horas (definido como 86400000 milissegundos), o sistema incrementa o número de dias decorridos e verifica se a porcentagem da validade atingiu 80%. Caso tenha atingido, o buzzer é acionado para alertar os responsáveis sobre a proximidade da data de validade.
 
 ## Componentes utilizados
 
